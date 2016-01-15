@@ -30,7 +30,6 @@ A [curated](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-
 ### Utilities
 
 + [bass](https://github.com/edc/bass) - Run Bash utilities in Fish. :star::star:
-
 + [Shark](https://github.com/bucaran/shark) – Sparkline Generator. :star::star::star::star:
 
 
@@ -51,7 +50,7 @@ A [curated](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-
 > A Powerline-style, Git-aware fish theme optimized for awesome.
 
 + [Chris Morrell's](https://github.com/oh-my-fish/theme-cmorrell.com) :star::star:
-+ > Original, minimal base prompt featuring left / right artifacts.
+> Original, minimal base prompt featuring left / right artifacts.
 
 
 ## Contributing
