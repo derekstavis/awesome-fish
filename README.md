@@ -19,33 +19,33 @@ A [curated](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-
 
 #### [Fisherman](https://github.com/fisherman/fisherman) :star::star::star::star:
 
-**A fast, modern plugin system for Fish**. Fisherman uses a flat tree structure that adds no cruft to your shell, making it as fast as no Fisherman. The cache mechanism lets you query the index offline and enable or disable plugins as you wish.
+A fast, modern plugin system for Fish.
 
 #### [fundle](https://github.com/tuvistavie/fundle) :star::star:
 
-**A minimalist package manager for fish.** All plugins are installed/updated using git, so the only requirement is to have git installed and on the path (and well, fish, obviously).
+A minimalist package manager for fish.
 
 #### [Tacklebox](https://github.com/justinmayer/tacklebox/) :star:
 
-**Framework for organizing and sharing fish shell functions.** Tacklebox is a framework for Fish that makes it easy to organize and share collections of useful shell functions, tools, and themes.
+Framework for organizing and sharing fish shell functions.
 
 
 ### Test Frameworks
 
 #### [Fishtape](https://github.com/fisherman/fishtape) :star::star::star::star:
 
-**TAP producer and test harness for fish.** Fishtape is a TAP (Test Anything Protocol) producer and test harness for fish. This utility reads one or more files, or the standard input if no files are given, and executes test blocks producing a TAP stream.
+TAP producer and test harness for fish.
 
 
 ### Utilities
 
 #### [bass](https://github.com/edc/bass) :star::star:
 
-**Make Bash utilities usable in Fish.** Bass is created to make it possible to use bash utilities in fish without any modification. It works by capturing what environment variables are modified by the utility of interest, and replay the changes in fish.
+Run Bash utilities in Fish.
 
 #### [Shark](https://github.com/bucaran/shark) :star::star::star::star:
 
-**Sparkline Generator.** Shark reads the standard input extracting numeric values and produces a stream of UTF-8 block characters of increasing  height.
+Sparkline Generator.
 
 
 ### Prompts
