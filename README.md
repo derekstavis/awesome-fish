@@ -17,35 +17,21 @@ A [curated](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-
 
 ### Plugin Managers
 
-#### [Fisherman](https://github.com/fisherman/fisherman) :star::star::star::star:
-
-A fast, modern plugin system for Fish.
-
-#### [fundle](https://github.com/tuvistavie/fundle) :star::star:
-
-A minimalist package manager for fish.
-
-#### [Tacklebox](https://github.com/justinmayer/tacklebox/) :star:
-
-Framework for organizing and sharing fish shell functions.
++ [Fisherman](https://github.com/fisherman/fisherman) – A fast, modern plugin system for Fish. :star::star::star::star: 
++ [fundle](https://github.com/tuvistavie/fundle) – A minimalist package manager for fish. :star::star::star:
++ [Tacklebox](https://github.com/justinmayer/tacklebox/) – Framework for organizing and sharing fish shell functions. :star:
 
 
 ### Test Frameworks
 
-#### [Fishtape](https://github.com/fisherman/fishtape) :star::star::star::star:
-
-TAP producer and test harness for fish.
++ [Fishtape](https://github.com/fisherman/fishtape) – TAP producer and test harness for fish. :star::star::star::star:
 
 
 ### Utilities
 
-#### [bass](https://github.com/edc/bass) :star::star:
++ [bass](https://github.com/edc/bass) - Run Bash utilities in Fish. :star::star:
 
-Run Bash utilities in Fish.
-
-#### [Shark](https://github.com/bucaran/shark) :star::star::star::star:
-
-Sparkline Generator.
++ [Shark](https://github.com/bucaran/shark) – Sparkline Generator. :star::star::star::star:
 
 
 ### Prompts
