@@ -32,10 +32,6 @@ All plugins are installed/updated using git, so the only requirement is to have 
 
 Tacklebox is a framework for Fish that makes it easy to organize and share collections of useful shell functions, tools, and themes.
 
-#### [Oh My Fish!](https://github.com/oh-my-fish) :star: :star:
-> The Fishshell Framework
-
-Oh My Fish! is a [Wahoo](https://github.com/bucaran/wahoo)-powered configuration framework for Fish, and extensive plugin / prompt catalog.
 
 ### Test Frameworks
 
@@ -47,7 +43,7 @@ Fishtape is a TAP (Test Anything Protocol) producer and test harness for fish. T
 
 ### Utilities
 
-### [bass](https://github.com/edc/bass) :star::star:
+#### [bass](https://github.com/edc/bass) :star::star:
 > Make Bash utilities usable in Fish.
 
 Bass is created to make it possible to use bash utilities in fish without any modification. It works by capturing what environment variables are modified by the utility of interest, and replay the changes in fish.
@@ -62,20 +58,20 @@ Shark reads the standard input extracting numeric values and produces a stream o
 
 > :warning: Powerline prompts look better with [Powerline Patched Fonts](https://github.com/powerline/fonts).
 
-#### [Shellder](https://github.com/simnalamburt/shellder) :star::star::star::star:
++ [Shellder](https://github.com/simnalamburt/shellder) :star::star::star::star:
 Powerline prompt optimized for speed, inspired by [seoul256.vim](https://github.com/junegunn/seoul256.vim).
 
-#### [Scorphish](https://github.com/oh-my-fish/theme-scorphish) :star::star::star:
++ [Scorphish](https://github.com/oh-my-fish/theme-scorphish) :star::star::star:
 
 Vigorous multi-line, [epaulette](https://en.wikipedia.org/wiki/Epaulette)-evoking, angle bracket prompt.
 
-#### [Agnoster](https://github.com/oh-my-fish/theme-agnoster) :star::star:
++ [Agnoster](https://github.com/oh-my-fish/theme-agnoster) :star::star:
 Powerline prompt optimized for Solarized Dark and Git users.
 
-#### [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star::star:
++ [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star::star:
 A Powerline-style, Git-aware fish theme optimized for awesome.
 
-#### [Chris Morrell's](https://github.com/oh-my-fish/theme-cmorrell.com) :star::star:
++ [Chris Morrell's](https://github.com/oh-my-fish/theme-cmorrell.com) :star::star:
 Original, minimal base prompt featuring left / right artifacts.
 
 
