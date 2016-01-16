@@ -35,23 +35,11 @@ A [curated](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-
 
 ### Prompts
 
-> Powerline prompts look better with [Powerline Patched Fonts](https://github.com/powerline/fonts).
-
 + [Shellder](https://github.com/simnalamburt/shellder) :star::star::star::star:
-> Powerline prompt optimized for speed, inspired by [seoul256.vim](https://github.com/junegunn/seoul256.vim).
-
 + [Scorphish](https://github.com/oh-my-fish/theme-scorphish) :star::star::star:
-> Vigorous multi-line, [epaulette](https://en.wikipedia.org/wiki/Epaulette)-evoking, angle bracket prompt.
-
 + [Agnoster](https://github.com/oh-my-fish/theme-agnoster) :star::star:
-> Powerline prompt optimized for Solarized Dark and Git users.
-
 + [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star::star:
-> A Powerline-style, Git-aware fish theme optimized for awesome.
-
 + [Chris Morrell's](https://github.com/oh-my-fish/theme-cmorrell.com) :star::star:
-> Original, minimal base prompt featuring left / right artifacts.
-
 
 ## Contributing
 
