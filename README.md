@@ -31,7 +31,7 @@ A [curated](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-
 
 + [bass](https://github.com/edc/bass) - Run Bash utilities in Fish. :star::star:
 + [Shark](https://github.com/bucaran/shark) – Sparkline Generator. :star::star::star::star:
-
++ [nvm](https://github.com/derekstavis/plugin-nvm) – Node version manager wrapper. :star::star::star::star:
 
 ### Prompts
 
